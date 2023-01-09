@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [The solution URL is here](https://github.com/brilliant-smart/3-column-preview-card-component-no-framework.git)
-- Live Site URL: [And the live site URL is here](https://your-live-site-url.com)
+- Live Site URL: [And the live site URL is here](https://brilliant-smart.github.io/3-column-preview-card-component-no-framework/)
 
 ## My process
 
