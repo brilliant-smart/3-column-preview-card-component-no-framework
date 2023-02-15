@@ -33,10 +33,10 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  /* height: 100vh; */
   font-size: 15px;
   background-color: var(--Very-light-gray);
-  padding: 20%;
+  padding: 10% 20%;
 }
 
 main {
@@ -133,6 +133,13 @@ footer {
 
 footer a {
   color: var(--Navy-blue);
+}
+
+@media(max-width:600px) {
+  body {
+    padding: 0;
+    margin: 2rem;
+  }
 }
 
 @media only screen and (max-width: 768px) {
